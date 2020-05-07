@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FService</string>
+    <string name="description_notification">Description Foreground Service</string>
+    <string name="title_notification">Foreground Service</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="service_on">SERVICE ON</string>
+    <string name="service_off">SERVICE OFF</string>
+    <string name="Servi_on">SERVICE ON</string>
+</resources>
